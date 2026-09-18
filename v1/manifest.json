@@ -43,7 +43,7 @@
     {
       "city": "losangeles",
       "located": 41476,
-      "builtAt": "2026-09-18T18:34:57+00:00",
+      "builtAt": "2026-09-18T18:40:02+00:00",
       "windowFrom": "2024-09-18",
       "covers": "2023-07-03 \u2192 2026-06-30",
       "facilities": 43205,
@@ -51,7 +51,7 @@
       "citations": 266530,
       "bytes": 3363550,
       "rawBytes": 40439834,
-      "sha256": "067b610fdce9e329822a3ef679af3e32cf87170f960ccd9e5f9c83f4a857a630"
+      "sha256": "526fc8adfdf7abdea9549d717412b2cc30d1244b1269088e106f153ec8d27e56"
     },
     {
       "city": "newyork",
