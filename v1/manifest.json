@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "cities": [
+    {
+      "city": "boston",
+      "located": 4224,
+      "builtAt": "2026-09-18T17:20:46+00:00",
+      "windowFrom": "2024-09-18",
+      "covers": "2024-08-06 \u2192 2026-09-16",
+      "facilities": 4927,
+      "visits": 26268,
+      "citations": 87490,
+      "bytes": 2989699,
+      "rawBytes": 21379282,
+      "sha256": "c091a9904292dd8afd3c9934732a93103b0a4df06cfc7ad6bd829c5d8fa6c6a1"
+    },
+    {
+      "city": "cambridge",
+      "located": 1187,
+      "builtAt": "2026-09-18T17:20:56+00:00",
+      "windowFrom": "2024-09-18",
+      "covers": "2022-01-21 \u2192 2026-08-26",
+      "facilities": 1386,
+      "visits": 1634,
+      "citations": 4627,
+      "bytes": 254080,
+      "rawBytes": 1232440,
+      "sha256": "72d1205010aa2cfc886a00df8ae5e842afeb0909059b5204cd3c05f368f044fa"
+    },
+    {
+      "city": "chicago",
+      "located": 14894,
+      "builtAt": "2026-09-18T17:21:11+00:00",
+      "windowFrom": "2024-09-18",
+      "covers": "2024-09-18 \u2192 2026-09-16",
+      "facilities": 14914,
+      "visits": 36358,
+      "citations": 105936,
+      "bytes": 5965397,
+      "rawBytes": 33261434,
+      "sha256": "db2d8b48f9ecc1f9b6614aaf44972b14de101ed063b504937b99e54ed7985f3c"
+    },
+    {
+      "city": "losangeles",
+      "located": 19138,
+      "builtAt": "2026-09-18T17:24:36+00:00",
+      "windowFrom": "2024-09-18",
+      "covers": "2023-07-03 \u2192 2026-06-30",
+      "facilities": 43205,
+      "visits": 62551,
+      "citations": 266530,
+      "bytes": 2956423,
+      "rawBytes": 39328082,
+      "sha256": "8e7ee710289bfc62c382d6b7b9843c2f47b23bd9513728d3f40a3dc7de5ca2f7"
+    },
+    {
+      "city": "newyork",
+      "located": 26554,
+      "builtAt": "2026-09-18T17:22:14+00:00",
+      "windowFrom": "2024-09-18",
+      "covers": "2024-09-18 \u2192 2026-09-16",
+      "facilities": 26687,
+      "visits": 57340,
+      "citations": 181268,
+      "bytes": 3458427,
+      "rawBytes": 43108706,
+      "sha256": "ac8cc6960992db36731a0de0a0f6bf137d13df8945f7b8176faff3c672a5b51e"
+    }
+  ]
+}
