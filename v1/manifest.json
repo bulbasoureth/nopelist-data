@@ -4,33 +4,33 @@
     {
       "city": "boston",
       "located": 4333,
-      "builtAt": "2026-09-19T20:11:19+00:00",
+      "builtAt": "2026-09-19T20:37:12+00:00",
       "windowFrom": "2024-09-19",
       "covers": "2024-08-06 \u2192 2026-09-18",
       "facilities": 4930,
       "visits": 26309,
       "citations": 87521,
-      "bytes": 2992437,
-      "rawBytes": 21396331,
-      "sha256": "de8fc922679104c7d1a17cb8731eeba4d63652736fff74409e277f4f04f594fa"
+      "bytes": 2993406,
+      "rawBytes": 21396236,
+      "sha256": "c857c42cede64180cdd5cadebf8daa5ec43eedfc23a91ad79457f80a2d90cef7"
     },
     {
       "city": "cambridge",
       "located": 1187,
-      "builtAt": "2026-09-19T20:11:23+00:00",
+      "builtAt": "2026-09-19T20:37:16+00:00",
       "windowFrom": "2024-09-19",
       "covers": "2022-01-21 \u2192 2026-08-26",
       "facilities": 1386,
       "visits": 1634,
       "citations": 4627,
-      "bytes": 254079,
+      "bytes": 254080,
       "rawBytes": 1232440,
-      "sha256": "55c2b55dc89cba41c96641239244340a16eae25db17f6e78521e00918c31d83a"
+      "sha256": "b3bdbbb59733013c7aa202bf79d0c06c5e359dfd647b3d2fc40d967357395d54"
     },
     {
       "city": "chicago",
       "located": 14897,
-      "builtAt": "2026-09-19T20:11:39+00:00",
+      "builtAt": "2026-09-19T20:37:31+00:00",
       "windowFrom": "2024-09-19",
       "covers": "2024-09-19 \u2192 2026-09-18",
       "facilities": 14917,
@@ -38,7 +38,7 @@
       "citations": 106047,
       "bytes": 5969075,
       "rawBytes": 33288806,
-      "sha256": "72587f56fa3dfb73d732a40301740ad3c17ea06de76bbafc7bbaa4d514d408ea"
+      "sha256": "817f8cfcaa34bf724f336cebfd8651d4861f684c6c24399a46cbad9b2feb9750"
     },
     {
       "city": "losangeles",
@@ -56,7 +56,7 @@
     {
       "city": "newyork",
       "located": 26482,
-      "builtAt": "2026-09-19T20:12:42+00:00",
+      "builtAt": "2026-09-19T20:38:35+00:00",
       "windowFrom": "2024-09-19",
       "covers": "2024-09-19 \u2192 2026-09-17",
       "facilities": 26611,
@@ -64,7 +64,7 @@
       "citations": 180783,
       "bytes": 3445483,
       "rawBytes": 42996718,
-      "sha256": "e7be1951d1905214b240572f9f4ceea0c5767773154df9da69e2d1dc132386ea"
+      "sha256": "eae24164b7da965016c9cff5c5771e6360ce2ad87e81110e9a29cf6743404339"
     }
   ]
 }
