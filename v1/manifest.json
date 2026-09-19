@@ -4,41 +4,41 @@
     {
       "city": "boston",
       "located": 4333,
-      "builtAt": "2026-09-19T19:22:38+00:00",
+      "builtAt": "2026-09-19T20:02:18+00:00",
       "windowFrom": "2024-09-19",
       "covers": "2024-08-06 \u2192 2026-09-18",
       "facilities": 4930,
       "visits": 26309,
       "citations": 87521,
-      "bytes": 2992805,
-      "rawBytes": 21396475,
-      "sha256": "4c9f50c12bcef5cbd3b984c64072f758ba2f8e5f00c408fa483de020e5de7cf6"
+      "bytes": 2993418,
+      "rawBytes": 21396336,
+      "sha256": "85332a0190d8086598313dd10e39fd1f3284483cda1dd46e55744aeeb7a75064"
     },
     {
       "city": "cambridge",
       "located": 1187,
-      "builtAt": "2026-09-19T19:22:42+00:00",
+      "builtAt": "2026-09-19T20:02:22+00:00",
       "windowFrom": "2024-09-19",
       "covers": "2022-01-21 \u2192 2026-08-26",
       "facilities": 1386,
       "visits": 1634,
       "citations": 4627,
-      "bytes": 254079,
+      "bytes": 254078,
       "rawBytes": 1232440,
-      "sha256": "13551ad4edbd53f19b70bb3bbae4000ba1a3421010248a36f083abfd5382e432"
+      "sha256": "bc210d1e2343d6405b1fd628c0ac615745deaf303ebb630ff7485bb76ff62507"
     },
     {
       "city": "chicago",
       "located": 14897,
-      "builtAt": "2026-09-19T19:22:50+00:00",
+      "builtAt": "2026-09-19T20:02:43+00:00",
       "windowFrom": "2024-09-19",
       "covers": "2024-09-19 \u2192 2026-09-18",
       "facilities": 14917,
       "visits": 36433,
       "citations": 106047,
-      "bytes": 5969075,
-      "rawBytes": 33288806,
-      "sha256": "b992c9304d7aebe85a9df694083d9dbf1cf0f618767b64fb347e7d6aee0e86db"
+      "bytes": 5970918,
+      "rawBytes": 33288838,
+      "sha256": "81c886970d873ce91d61e970ff2f864da979e9568d2df6205bdd7d54b70a16df"
     },
     {
       "city": "losangeles",
@@ -56,15 +56,15 @@
     {
       "city": "newyork",
       "located": 26482,
-      "builtAt": "2026-09-19T19:23:36+00:00",
+      "builtAt": "2026-09-19T20:03:42+00:00",
       "windowFrom": "2024-09-19",
       "covers": "2024-09-19 \u2192 2026-09-17",
       "facilities": 26611,
       "visits": 57205,
       "citations": 180783,
-      "bytes": 3445483,
+      "bytes": 3445481,
       "rawBytes": 42996718,
-      "sha256": "c02f461dc9f0acb94d8eca43e583e9a4de408b31327ef0ef0ab4f7ccbf634a09"
+      "sha256": "c5dae97f33e0495ca6b1d8e323d95a0258632aa5492fbb0b84fb4026831548e6"
     }
   ]
 }
