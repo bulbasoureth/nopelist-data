@@ -61,15 +61,21 @@
     {
       "city": "losangeles",
       "located": 41476,
-      "builtAt": "2026-09-18T18:40:02+00:00",
-      "windowFrom": "2024-09-18",
+      "builtAt": "2026-09-20T02:40:56+00:00",
+      "windowFrom": "2024-09-20",
       "covers": "2023-07-03 \u2192 2026-06-30",
       "facilities": 43205,
-      "visits": 62551,
-      "citations": 266530,
-      "bytes": 3363550,
-      "rawBytes": 40439834,
-      "sha256": "526fc8adfdf7abdea9549d717412b2cc30d1244b1269088e106f153ec8d27e56"
+      "visits": 62344,
+      "citations": 265569,
+      "bytes": 3358599,
+      "rawBytes": 40326069,
+      "sha256": "c5e1242d7ea7c220711bb934a68b99288711e60f25030f15ba34bb109e9cd376",
+      "head": {
+        "facilities": 3943,
+        "bytes": 332948,
+        "rawBytes": 4917063,
+        "sha256": "d4ea90355d5a67849742df7d4ca9374261ff916ea5d2e8bad49ff575ce8fde2e"
+      }
     },
     {
       "city": "newyork",
