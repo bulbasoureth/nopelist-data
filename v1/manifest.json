@@ -4,41 +4,41 @@
     {
       "city": "boston",
       "located": 4333,
-      "builtAt": "2026-09-21T15:49:20+00:00",
-      "windowFrom": "2024-09-21",
+      "builtAt": "2026-09-22T13:59:34+00:00",
+      "windowFrom": "2024-09-22",
       "covers": "2024-08-06 \u2192 2026-09-19",
       "facilities": 4930,
-      "visits": 26243,
+      "visits": 26221,
       "citations": 87148,
-      "bytes": 2980319,
-      "rawBytes": 21312338,
-      "sha256": "b4d752941ba13d9345eadf565353832cb77c74ddb3569151cf002ad63ca1d339"
+      "bytes": 2980389,
+      "rawBytes": 21310472,
+      "sha256": "181b5d50fbe2bc1b813615dd39b72b67fdc80ddd7a5aa825c1ec2cbb81cd402a"
     },
     {
       "city": "cambridge",
       "located": 1189,
-      "builtAt": "2026-09-21T15:49:23+00:00",
-      "windowFrom": "2024-09-21",
+      "builtAt": "2026-09-22T13:59:39+00:00",
+      "windowFrom": "2024-09-22",
       "covers": "2022-01-21 \u2192 2026-09-17",
       "facilities": 1388,
       "visits": 1642,
       "citations": 4658,
-      "bytes": 255993,
+      "bytes": 255994,
       "rawBytes": 1241131,
-      "sha256": "5ab6edf987086d6976ef5dab9968480d0f734ed4d17076081abf31bcf329395c"
+      "sha256": "3950599c846ebfd7d45d4d2d16962ab6355e0d3847f31a282a1b2f1abd1925b3"
     },
     {
       "city": "chicago",
-      "located": 14877,
-      "builtAt": "2026-09-21T15:49:34+00:00",
-      "windowFrom": "2024-09-21",
-      "covers": "2024-09-23 \u2192 2026-09-18",
-      "facilities": 14897,
-      "visits": 36267,
-      "citations": 105591,
-      "bytes": 5948756,
-      "rawBytes": 33155975,
-      "sha256": "066a03c02ebedd8af580f5089b935d0aa7ec4dea7c468e23ce2d2bb9e177a2d4"
+      "located": 14883,
+      "builtAt": "2026-09-22T13:59:47+00:00",
+      "windowFrom": "2024-09-22",
+      "covers": "2024-09-23 \u2192 2026-09-21",
+      "facilities": 14903,
+      "visits": 36322,
+      "citations": 105757,
+      "bytes": 5957361,
+      "rawBytes": 33205118,
+      "sha256": "daf89064568ccb8863f831c3614d0a7c98b44366592939e221a952fe7219a723"
     },
     {
       "city": "losangeles",
@@ -61,16 +61,16 @@
     },
     {
       "city": "newyork",
-      "located": 26478,
-      "builtAt": "2026-09-21T15:50:17+00:00",
-      "windowFrom": "2024-09-21",
-      "covers": "2024-09-21 \u2192 2026-09-17",
-      "facilities": 26607,
-      "visits": 56977,
-      "citations": 180134,
-      "bytes": 3436999,
-      "rawBytes": 42852708,
-      "sha256": "4d9b43d0c519398352f0673f44cb67632ec83f761261f30d906c1f8c0e77fdad"
+      "located": 26513,
+      "builtAt": "2026-09-22T14:00:55+00:00",
+      "windowFrom": "2024-09-22",
+      "covers": "2024-09-22 \u2192 2026-09-20",
+      "facilities": 26644,
+      "visits": 57275,
+      "citations": 181055,
+      "bytes": 3453125,
+      "rawBytes": 43055886,
+      "sha256": "b617588df18a3bb456c947decdcf5a029edb68d16c00e2ab32065c4164a1406a"
     }
   ]
 }
