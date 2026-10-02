@@ -3,59 +3,59 @@
   "cities": [
     {
       "city": "boston",
-      "located": 4342,
-      "builtAt": "2026-10-01T16:14:43+00:00",
-      "windowFrom": "2024-10-01",
-      "covers": "2024-08-13 \u2192 2026-09-29",
-      "facilities": 4939,
-      "visits": 26341,
-      "citations": 87310,
-      "bytes": 2445972,
-      "rawBytes": 12039466,
-      "sha256": "5ffb29bd65bd57b7de7c0f23d5750b7745442134bbbaa3c7aa830d7d2c1c28bd",
+      "located": 4344,
+      "builtAt": "2026-10-02T15:38:50+00:00",
+      "windowFrom": "2024-10-02",
+      "covers": "2024-08-14 \u2192 2026-09-30",
+      "facilities": 4941,
+      "visits": 26337,
+      "citations": 87216,
+      "bytes": 2446051,
+      "rawBytes": 12039066,
+      "sha256": "a9eff3bd3cd36887f626b93956573b0efb09d53a2a68b32cca3c865844477984",
       "head": {
-        "facilities": 1169,
-        "bytes": 373325,
-        "rawBytes": 1769030,
-        "sha256": "9868f9de3b7c884700bc8f5dee85e8b499b5cb1f76582281aadfbbcc17065716"
+        "facilities": 1167,
+        "bytes": 372755,
+        "rawBytes": 1763006,
+        "sha256": "b04057fbd55c23d26a8d5166ee3e541daf2d591684816d31fc32065aed5223de"
       }
     },
     {
       "city": "cambridge",
       "located": 1189,
-      "builtAt": "2026-10-01T16:14:49+00:00",
-      "windowFrom": "2024-10-01",
+      "builtAt": "2026-10-02T15:39:07+00:00",
+      "windowFrom": "2024-10-02",
       "covers": "2022-01-21 \u2192 2026-09-17",
       "facilities": 1388,
-      "visits": 1636,
-      "citations": 4640,
-      "bytes": 244596,
-      "rawBytes": 1247067,
-      "sha256": "a079383b3b2f651dabfa2fbf2542227b8d3edc9cf6f91aa4bf7de84189f43328",
+      "visits": 1635,
+      "citations": 4637,
+      "bytes": 244514,
+      "rawBytes": 1246595,
+      "sha256": "b2f120da06ad9195fe77429a57a740d01bfed50c63389fb40d2d4821da0daf6b",
       "head": {
         "facilities": 805,
         "bytes": 170025,
         "rawBytes": 856354,
-        "sha256": "d118870858e6a175bfb13edc659c48fe283f6fd61f50b9cd310702ce9a0d784b"
+        "sha256": "ed591046160dcf0891b3c1ed7b2699f5feb91c72b64fb618c33f86994bf6134b"
       }
     },
     {
       "city": "chicago",
-      "located": 14861,
-      "builtAt": "2026-10-01T16:15:16+00:00",
-      "windowFrom": "2024-10-01",
-      "covers": "2024-10-01 \u2192 2026-09-30",
-      "facilities": 14881,
-      "visits": 36513,
-      "citations": 106373,
-      "bytes": 5434465,
-      "rawBytes": 29659850,
-      "sha256": "f6799fa692cf8e98c07c3294864a21d072d6a328e93abe1681a53df65e228319",
+      "located": 14855,
+      "builtAt": "2026-10-02T15:39:17+00:00",
+      "windowFrom": "2024-10-02",
+      "covers": "2024-10-02 \u2192 2026-10-01",
+      "facilities": 14875,
+      "visits": 36431,
+      "citations": 106116,
+      "bytes": 5417710,
+      "rawBytes": 29589957,
+      "sha256": "1acee8ea4a84bdcc0ab9a1f11635a1c563bb3c3cb0fc602296204a9cad222363",
       "head": {
-        "facilities": 703,
-        "bytes": 325277,
-        "rawBytes": 1736563,
-        "sha256": "749c3f419f469871c899ecdd991dd6240215c835e26d637b2de92f580fb61487"
+        "facilities": 908,
+        "bytes": 389351,
+        "rawBytes": 2081354,
+        "sha256": "77940c7bc87007f819d2cadaf86e9d613db44282120e85afdd9d8354cf11eae8"
       }
     },
     {
@@ -79,21 +79,21 @@
     },
     {
       "city": "newyork",
-      "located": 26482,
-      "builtAt": "2026-10-01T16:17:17+00:00",
-      "windowFrom": "2024-10-01",
-      "covers": "2024-10-01 \u2192 2026-09-28",
-      "facilities": 26618,
-      "visits": 57285,
-      "citations": 181105,
-      "bytes": 1605762,
-      "rawBytes": 8579142,
-      "sha256": "3a3de18a57a1dc6e0ffcf7bdf6607386a745e38e8ca8abe9ce503110098056b6",
+      "located": 26485,
+      "builtAt": "2026-10-02T15:41:16+00:00",
+      "windowFrom": "2024-10-02",
+      "covers": "2024-10-02 \u2192 2026-09-30",
+      "facilities": 26627,
+      "visits": 57298,
+      "citations": 181236,
+      "bytes": 1603096,
+      "rawBytes": 8572774,
+      "sha256": "0327a5281a11b6c846e5d1fb72f6664697ac974de80ab8fb560f0c5875c5f1ca",
       "head": {
-        "facilities": 3099,
-        "bytes": 174898,
-        "rawBytes": 814167,
-        "sha256": "ce4ae0f09468c43466481361d55c7c5b0dd036d6956b21d9d9f4f7910864c328"
+        "facilities": 3115,
+        "bytes": 175172,
+        "rawBytes": 815940,
+        "sha256": "a8696ec8f86ec128e2c0f7795bffcf8c42241edfa30c47d75fbbc3a105694b2c"
       }
     }
   ]
