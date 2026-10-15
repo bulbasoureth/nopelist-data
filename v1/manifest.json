@@ -116,6 +116,25 @@
       }
     },
     {
+      "city": "miami",
+      "located": 9775,
+      "builtAt": "2026-10-15T13:55:47+00:00",
+      "windowFrom": "2024-10-15",
+      "covers": "2024-07-01 \u2192 2026-10-14",
+      "facilities": 10655,
+      "visits": 39867,
+      "citations": 244215,
+      "bytes": 794973,
+      "rawBytes": 4458334,
+      "sha256": "c1d067eed50543c512cee426112fcc1ebe1a3bbed3f94276a7e2d0f0b2e5a6ea",
+      "head": {
+        "facilities": 5775,
+        "bytes": 290272,
+        "rawBytes": 1511681,
+        "sha256": "d46309bf6fe36bdce016db64cc6ed97242d882668d45cbc9746d93662c17347f"
+      }
+    },
+    {
       "city": "newyork",
       "located": 26178,
       "builtAt": "2026-10-15T03:16:26+00:00",
