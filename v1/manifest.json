@@ -118,7 +118,7 @@
     {
       "city": "miami",
       "located": 9775,
-      "builtAt": "2026-10-15T13:55:47+00:00",
+      "builtAt": "2026-10-15T15:09:13+00:00",
       "windowFrom": "2024-10-15",
       "covers": "2024-07-01 \u2192 2026-10-14",
       "facilities": 10655,
@@ -126,12 +126,12 @@
       "citations": 244215,
       "bytes": 794973,
       "rawBytes": 4458334,
-      "sha256": "c1d067eed50543c512cee426112fcc1ebe1a3bbed3f94276a7e2d0f0b2e5a6ea",
+      "sha256": "ce13171dd3e60a28c1d8917ae2c1249b504bdcf5b31b4ab2f2fa2ee8e6bc458d",
       "head": {
         "facilities": 5775,
         "bytes": 290272,
         "rawBytes": 1511681,
-        "sha256": "d46309bf6fe36bdce016db64cc6ed97242d882668d45cbc9746d93662c17347f"
+        "sha256": "c2282252e00b589dd3b96bcc3db40b0fca6ce3dd10bc5ba9f36bfe8b2f56a91f"
       }
     },
     {
