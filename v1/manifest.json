@@ -4,96 +4,96 @@
     {
       "city": "boston",
       "located": 4634,
-      "builtAt": "2026-10-14T14:27:34+00:00",
-      "windowFrom": "2024-10-14",
-      "covers": "2024-08-22 \u2192 2026-10-09",
-      "facilities": 4942,
-      "visits": 26134,
-      "citations": 86445,
-      "bytes": 3005577,
-      "rawBytes": 20860843,
-      "sha256": "b3ab5216b9e80b4f5091eec3743304066ac848c7b428589f72ef6afdf23f2723",
+      "builtAt": "2026-10-15T00:45:43+00:00",
+      "windowFrom": "2024-10-15",
+      "covers": "2024-08-22 \u2192 2026-10-13",
+      "facilities": 4939,
+      "visits": 26191,
+      "citations": 86603,
+      "bytes": 3011556,
+      "rawBytes": 20903885,
+      "sha256": "9f5beb257b416942eada62dc401d10c0e7af5f842adf7bbe0f25c66e088fd9be",
       "head": {
-        "facilities": 1168,
-        "bytes": 382177,
-        "rawBytes": 1846242,
-        "sha256": "76051c1a1e3c29b868856978c917f6a6a1183f7045eb01b960179e6f015b079c"
+        "facilities": 1173,
+        "bytes": 385960,
+        "rawBytes": 1863734,
+        "sha256": "29cbdfed2de91716bbd9abf7206de53db50fd50700f048c654d203e5a1337920"
       }
     },
     {
       "city": "burlington",
-      "located": 1618,
-      "builtAt": "2026-10-14T14:47:13+00:00",
-      "windowFrom": "2024-10-14",
-      "covers": "2025-08-02 \u2192 2026-10-08",
-      "facilities": 2347,
-      "visits": 3454,
-      "citations": 6727,
-      "bytes": 527419,
-      "rawBytes": 2590277,
-      "sha256": "5d03ac377b58be1fe6526689d1e6aa856286f5ded4e02f12c58c0eac7a6ce962",
+      "located": 1629,
+      "builtAt": "2026-10-15T01:03:05+00:00",
+      "windowFrom": "2024-10-15",
+      "covers": "2025-07-08 \u2192 2026-10-08",
+      "facilities": 2375,
+      "visits": 3582,
+      "citations": 6961,
+      "bytes": 542440,
+      "rawBytes": 2666844,
+      "sha256": "0dfa408d9400c962fa7ad5e5f26e750c8ebe08e88cfb9ea0e9fe26b8f764c0ed",
       "head": {
-        "facilities": 1364,
-        "bytes": 253934,
-        "rawBytes": 1249137,
-        "sha256": "bd4562bd65822414c5ccefdebe62e5d553ec5825aefde79fb10783bb8658f457"
+        "facilities": 1374,
+        "bytes": 255776,
+        "rawBytes": 1260200,
+        "sha256": "6e5ac536aefd313e9ec7dbbd7d03d5be3e73ee5daf3ca58123eee0c9f9855f07"
       }
     },
     {
       "city": "cambridge",
       "located": 1171,
-      "builtAt": "2026-10-14T14:27:42+00:00",
-      "windowFrom": "2024-10-14",
+      "builtAt": "2026-10-15T00:45:56+00:00",
+      "windowFrom": "2024-10-15",
       "covers": "2022-01-21 \u2192 2026-09-29",
       "facilities": 1370,
       "visits": 1631,
       "citations": 4647,
-      "bytes": 244411,
+      "bytes": 244410,
       "rawBytes": 1245655,
-      "sha256": "58accb5c07d4639edbd518ec778e409b4338175dc2a82a3e37fd70c45b018644",
+      "sha256": "0e22dd781764acf78cd0e8ee8cef4597fa2beb85a591a043e39ad38c7cd39853",
       "head": {
         "facilities": 796,
-        "bytes": 167403,
+        "bytes": 167401,
         "rawBytes": 842574,
-        "sha256": "da3995634c9e2dfeec4c320a1fe414f7612f4c18a56960f1819d755fa727ac2f"
+        "sha256": "d5b45cdf546a37c30c1798199904fac8f3178c1bfd91f9bf2e1c320a7d7e1426"
       }
     },
     {
       "city": "camden",
       "located": 1836,
-      "builtAt": "2026-10-14T14:47:59+00:00",
-      "windowFrom": "2024-10-14",
+      "builtAt": "2026-10-15T01:03:42+00:00",
+      "windowFrom": "2024-10-15",
       "covers": "2024-10-15 \u2192 2026-09-28",
       "facilities": 2249,
       "visits": 4140,
       "citations": 12085,
-      "bytes": 733549,
+      "bytes": 733548,
       "rawBytes": 4545356,
-      "sha256": "d291874048dd3fce5cf02ce48c017d4eae8f32c0c9d6a9d9ffa40648ecf23f05",
+      "sha256": "bca3bd679ff8ba3529362f9b3bfdfda1ce1338296c94c56006cd82e92afd8e7c",
       "head": {
         "facilities": 1460,
-        "bytes": 272762,
+        "bytes": 272761,
         "rawBytes": 1682874,
-        "sha256": "e6eebb77b6595281c3504da39ce221aecd5906b6600619800054e3e32b41bec9"
+        "sha256": "ea80d6eeea867e282055734fe27b2bde2a4244b4dc52232239a96cf1a1e5d566"
       }
     },
     {
       "city": "chicago",
       "located": 14775,
-      "builtAt": "2026-10-14T14:28:39+00:00",
-      "windowFrom": "2024-10-14",
+      "builtAt": "2026-10-15T00:46:17+00:00",
+      "windowFrom": "2024-10-15",
       "covers": "2024-10-15 \u2192 2026-10-13",
       "facilities": 14810,
       "visits": 36146,
       "citations": 105378,
-      "bytes": 5381925,
+      "bytes": 5381926,
       "rawBytes": 29388364,
-      "sha256": "f21b9d57d6c8cdf235cd304af16843561b5f607e20a4721828a4559483d25fa1",
+      "sha256": "b7870fbe213beee25a5cad29119963ff9a147abff3cb7825134710af056304e6",
       "head": {
         "facilities": 698,
-        "bytes": 324516,
+        "bytes": 324514,
         "rawBytes": 1728469,
-        "sha256": "ca6122c86cb800c52ea69ec87dcca28e5c933252d1d04165b1914e1ab0b20991"
+        "sha256": "365d06cded6649d8ecf454e24c65c2317a31a33665195b111ee8a91b45027ef9"
       }
     },
     {
@@ -117,21 +117,21 @@
     },
     {
       "city": "newyork",
-      "located": 26208,
-      "builtAt": "2026-10-14T14:31:53+00:00",
-      "windowFrom": "2024-10-14",
-      "covers": "2024-10-15 \u2192 2026-10-12",
-      "facilities": 26684,
-      "visits": 57503,
-      "citations": 181849,
-      "bytes": 1612282,
-      "rawBytes": 8611520,
-      "sha256": "3c9c3146ba03717305acff7f99a0a98cd2a7f3264aabc4e804e61f288bc08c51",
+      "located": 26182,
+      "builtAt": "2026-10-15T00:47:37+00:00",
+      "windowFrom": "2024-10-15",
+      "covers": "2024-10-15 \u2192 2026-10-13",
+      "facilities": 26657,
+      "visits": 57452,
+      "citations": 181673,
+      "bytes": 1605963,
+      "rawBytes": 8587976,
+      "sha256": "272bcaf4de842f2cc3cdc12517eb5aabea4ccbc16c95c541526e59e5525c6e26",
       "head": {
-        "facilities": 3139,
-        "bytes": 176492,
-        "rawBytes": 820998,
-        "sha256": "140ec0316b6aaa7861e627c0c4a8812a31ca2a3c17be53f203ed097e1a384184"
+        "facilities": 3122,
+        "bytes": 175750,
+        "rawBytes": 818139,
+        "sha256": "ca381ea8de6483ced7dee89d0c84efde6f2f7ca705b8cc1fbe05da9655ef01ba"
       }
     }
   ]
