@@ -155,21 +155,21 @@
     },
     {
       "city": "sanfrancisco",
-      "located": 6428,
-      "builtAt": "2026-10-15T03:33:13+00:00",
+      "located": 6433,
+      "builtAt": "2026-10-15T15:06:31+00:00",
       "windowFrom": "2024-10-15",
-      "covers": "2024-10-15 \u2192 2026-10-13",
-      "facilities": 6498,
-      "visits": 13255,
-      "citations": 30829,
-      "bytes": 310133,
-      "rawBytes": 1973279,
-      "sha256": "9d67691eb365fd7e7b1233b2f1f039822312146d1879f732550192cca1e0d55e",
+      "covers": "2024-10-15 \u2192 2026-10-14",
+      "facilities": 6503,
+      "visits": 13283,
+      "citations": 30903,
+      "bytes": 311317,
+      "rawBytes": 1977502,
+      "sha256": "751c94ba325f8f4de39a211139509819b653379caa67e7820303dabf16e8343b",
       "head": {
-        "facilities": 2461,
-        "bytes": 115134,
-        "rawBytes": 667217,
-        "sha256": "69083c79edf6121d8247d02975d71716af5e13fac480b0d9964766dfe74c0ee0"
+        "facilities": 2463,
+        "bytes": 115306,
+        "rawBytes": 668830,
+        "sha256": "e42efbc5a5fc162d2b611ea5f7724bc86ace51c3fd4b9cb2f7fef96afbeb3731"
       }
     }
   ]
