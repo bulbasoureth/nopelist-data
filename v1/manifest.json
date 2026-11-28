@@ -3,28 +3,28 @@
   "cities": [
     {
       "city": "boston",
-      "located": 4656,
-      "builtAt": "2026-11-28T04:18:15+00:00",
-      "newest": "2026-11-25",
+      "located": 4657,
+      "builtAt": "2026-11-28T17:28:07+00:00",
+      "newest": "2026-11-27",
       "windowFrom": "2024-11-28",
-      "covers": "2024-09-27 \u2192 2026-11-25",
-      "facilities": 4966,
-      "visits": 25558,
-      "citations": 86103,
-      "bytes": 3006653,
-      "rawBytes": 20827154,
-      "sha256": "955f943f39ffbad2272e16c7a88f51a7001b32c5e89e9a49e8e55eaee4db729c",
+      "covers": "2024-10-02 \u2192 2026-11-27",
+      "facilities": 4967,
+      "visits": 25582,
+      "citations": 86181,
+      "bytes": 3007254,
+      "rawBytes": 20843868,
+      "sha256": "781628f20f6bb1e9c049b148217f3805daf7b4947616b24220fb2bf1f632066e",
       "head": {
-        "facilities": 1129,
-        "bytes": 367105,
-        "rawBytes": 1772000,
-        "sha256": "b00b951bcf04faabd4422cae505c228159573151781ba9464891d059fb91f52e"
+        "facilities": 1128,
+        "bytes": 366899,
+        "rawBytes": 1771400,
+        "sha256": "c5b9d2838cbb5153152640b552aa34e01007a7cec8f22219655051a5e284f3cb"
       }
     },
     {
       "city": "burlington",
       "located": 1791,
-      "builtAt": "2026-11-28T04:22:18+00:00",
+      "builtAt": "2026-11-28T17:32:02+00:00",
       "newest": "2026-11-18",
       "windowFrom": "2024-11-28",
       "covers": "2024-12-02 \u2192 2026-11-18",
@@ -33,72 +33,72 @@
       "citations": 11684,
       "bytes": 850556,
       "rawBytes": 4222189,
-      "sha256": "27c05c1e0999c7e56911f2c4a398d60297ad679d55377524840cfd1bbe57c1c3",
+      "sha256": "01323ef84cc05223052d419de635b3eeb65db7dc39012444420dae8027fab8dd",
       "head": {
         "facilities": 1542,
         "bytes": 298108,
         "rawBytes": 1459091,
-        "sha256": "294fa176b07e7bd001feb2c120e4ab52f4e35c1e67f288922f24f8998f36363f"
+        "sha256": "1cada6bcc1bf4647625c493a9be2dea18910701d459809115f9249e0f73879fc"
       }
     },
     {
       "city": "cambridge",
       "located": 1177,
-      "builtAt": "2026-11-28T04:18:35+00:00",
+      "builtAt": "2026-11-28T17:28:10+00:00",
       "newest": "2026-11-02",
       "windowFrom": "2024-11-28",
       "covers": "2022-01-21 \u2192 2026-11-02",
       "facilities": 1376,
       "visits": 1606,
       "citations": 4536,
-      "bytes": 240105,
+      "bytes": 240106,
       "rawBytes": 1224006,
-      "sha256": "f4c39ef71bac2bce0f8ed9bf9a2796808e1d3b42dab0cb1176f4137bee792cc9",
+      "sha256": "e476072bafce1c6d951a2ef7914ab43dc157fae97e58a1e9832d1d3a332dab49",
       "head": {
         "facilities": 808,
         "bytes": 169706,
         "rawBytes": 855051,
-        "sha256": "c8eeb8ef8814edff3ad5835ab474a97bafbf8a00ddf104e4c29861eebdbd7362"
+        "sha256": "6e374b2b555018e6a452b7727461832f902de3b6596bf0d74b282b912cccc131"
       }
     },
     {
       "city": "camden",
       "located": 1950,
-      "builtAt": "2026-11-28T04:22:59+00:00",
+      "builtAt": "2026-11-28T17:32:40+00:00",
       "newest": "2026-11-24",
       "windowFrom": "2024-11-28",
       "covers": "2024-11-28 \u2192 2026-11-24",
       "facilities": 2379,
       "visits": 4788,
       "citations": 14383,
-      "bytes": 862032,
+      "bytes": 862031,
       "rawBytes": 5338234,
-      "sha256": "1d7c284e6a1a3fea5434389d1de3ff6d4e4a0f45041b6712547f41cc3884048a",
+      "sha256": "e4a6025861322a5bbafacd9e4ac5f8bb89e7ba19276dcb534bdacc3057f8abb4",
       "head": {
         "facilities": 1545,
         "bytes": 293976,
         "rawBytes": 1829458,
-        "sha256": "29b8d5201fc34c13a53e3ac18645913590b9695b2fbfc5f8bd4725be0a480024"
+        "sha256": "9af5820a740fb5779322ce18f4f108180c22a1d759dc32fe58c5922fb1003250"
       }
     },
     {
       "city": "chicago",
-      "located": 14556,
-      "builtAt": "2026-11-28T04:20:11+00:00",
-      "newest": "2026-11-25",
+      "located": 14561,
+      "builtAt": "2026-11-28T17:29:28+00:00",
+      "newest": "2026-11-27",
       "windowFrom": "2024-11-28",
-      "covers": "2024-11-29 \u2192 2026-11-25",
-      "facilities": 14591,
-      "visits": 35619,
-      "citations": 103420,
-      "bytes": 5280337,
-      "rawBytes": 28906304,
-      "sha256": "eb5ba19f894a5834d063c788486106c18219af7facfac7f0ef57c6e1c36ba191",
+      "covers": "2024-11-29 \u2192 2026-11-27",
+      "facilities": 14596,
+      "visits": 35685,
+      "citations": 103644,
+      "bytes": 5290752,
+      "rawBytes": 28967045,
+      "sha256": "aad4be4dcafe07ac7bbd51d7cfb5bb828cb88a4e4972bdd70c59f8c946b21ef0",
       "head": {
-        "facilities": 894,
-        "bytes": 381540,
-        "rawBytes": 2038303,
-        "sha256": "41ad9835dc4e0ef478ba360bf2b44b798f7dd416ac3bfdc5fab0723588c02e72"
+        "facilities": 897,
+        "bytes": 383913,
+        "rawBytes": 2049739,
+        "sha256": "f8d854524e0a293a22dcb5cb1bb9450ff46d0bf194e34a05677726847df5f6e2"
       }
     },
     {
@@ -143,22 +143,22 @@
     },
     {
       "city": "newyork",
-      "located": 26132,
-      "builtAt": "2026-11-28T04:22:07+00:00",
+      "located": 26136,
+      "builtAt": "2026-11-28T17:31:53+00:00",
       "newest": "2026-11-25",
       "windowFrom": "2024-11-28",
       "covers": "2024-11-29 \u2192 2026-11-25",
-      "facilities": 26597,
-      "visits": 56991,
+      "facilities": 26601,
+      "visits": 56992,
       "citations": 180042,
-      "bytes": 1598411,
-      "rawBytes": 8542438,
-      "sha256": "2f2da78f1146fd4c0cc1555dc974371b48bb75d66b51aa18991b3c71e649f8b6",
+      "bytes": 1600472,
+      "rawBytes": 8549183,
+      "sha256": "90e8ea3db5e948b73576806ca3bbe48f59582d3a377f23cb378fa23e2fb95f7d",
       "head": {
-        "facilities": 3208,
-        "bytes": 181338,
-        "rawBytes": 841189,
-        "sha256": "41344d72ae0eafd083bb7dbbc12b9ca3793da22c2797a496e7de3dd5c3f0eeb2"
+        "facilities": 3201,
+        "bytes": 180650,
+        "rawBytes": 837485,
+        "sha256": "8f2012a9b504598aa35a5b6c900b8c53f8ae3b6f57823b04cb0aca3881eab288"
       }
     },
     {
